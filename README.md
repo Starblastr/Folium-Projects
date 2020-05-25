@@ -1,6 +1,6 @@
 # Folium-Projects
 
 Hello World!
-This is just a simple step by step example of how you can easily scrape your 
-own data from wikipedia and generate a simple choropleth map using folium
+This repository contains simple step by step examples of how you can easily scrape your 
+own data from wikipedia, then generate maps from your data using folium
 and a few other python libraries. 
